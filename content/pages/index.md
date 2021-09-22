@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Pedro Daniel Rojas Corona'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Frontend de profesión y docente por convicción. Soy un apasionado del
+      aprendizaje y del desarrollo web.
     actions:
       - label: Let's talk
         url: /contact

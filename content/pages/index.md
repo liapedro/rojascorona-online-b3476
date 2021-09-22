@@ -6,9 +6,10 @@ sections:
     type: section_hero
     title: 'Hola, soy Pedro Daniel Rojas Corona'
     content: >
-      Frontend en proceso y docente por convicción. Soy un apasionado del
-      aprendizaje y del desarrollo web. Certified Educator Google For Education
-      Level 1 & Level 2.
+      Tengo la licenciatura en Informática Administrativa y actualmente soy
+      docente de educación básica (Secundaria). Soy Frontend en proceso y un
+      apasionado del aprendizaje y del desarrollo web. Cuento con la
+      certificación de Google For Education Level 1 & Level 2.
     actions:
       - label: ¡Hablemos!
         url: /contact

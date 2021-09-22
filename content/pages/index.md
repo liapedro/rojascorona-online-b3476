@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: 'Hola, soy Pedro Daniel Rojas Corona'
     content: >
-      Frontend de profesión y docente por convicción. Soy un apasionado del
-      aprendizaje y del desarrollo web.
+      Frontend es transición y docente por convicción. Soy un apasionado del
+      aprendizaje y del desarrollo web. Certified Educator Google For Education
+      Level 1 & Level 2.
     actions:
       - label: Let's talk
         url: /contact

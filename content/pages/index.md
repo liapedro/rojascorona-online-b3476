@@ -10,7 +10,7 @@ sections:
       aprendizaje y del desarrollo web. Certified Educator Google For Education
       Level 1 & Level 2.
     actions:
-      - label: Let's talk
+      - label: ¡Hablemos!
         url: /contact
         style: button
   - section_id: latest-projects

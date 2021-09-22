@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hola, soy Pedro Daniel Rojas Corona'
     content: >
-      Lic. en Informática Administrativa ■ Docente de educación básica
-      (Secundaria) ■ Frontend con conocimientos en HTML, CSS y JavaScript ■
+      Docente de educación básica (Secundaria) ■ Frontend con conocimientos en
+      HTML, CSS y JavaScript ■
 
       Cuento con la certificación de Google For Education Level 1 & Level 2.
     actions:

@@ -6,10 +6,10 @@ sections:
     type: section_hero
     title: 'Hola, soy Pedro Daniel Rojas Corona'
     content: >
-      Tengo la licenciatura en Informática Administrativa y actualmente soy
-      docente de educación básica (Secundaria). Soy Frontend en proceso y un
-      apasionado del aprendizaje y del desarrollo web. Cuento con la
-      certificación de Google For Education Level 1 & Level 2.
+      Lic. en Informática Administrativa ■ Docente de educación básica
+      (Secundaria) ■ Frontend con conocimientos en HTML, CSS y JavaScript ■
+
+      Cuento con la certificación de Google For Education Level 1 & Level 2.
     actions:
       - label: ¡Hablemos!
         url: /contact

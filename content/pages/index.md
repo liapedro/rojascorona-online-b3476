@@ -51,7 +51,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Lo que dicen mis alumnos...
-    subtitle: An optional subtitle of the section
+    subtitle: '"Si quieres cambiar la educación, escucha a los protagonistas"'
     col_number: three
     testimonials:
       - author: Sean Salazar

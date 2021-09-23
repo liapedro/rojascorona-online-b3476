@@ -75,7 +75,7 @@ sections:
           convallis, interdum ligula vel, pretium diam.
   - section_id: latest-posts
     type: section_posts
-    title: Artículos
+    title: Artículos...
     subtitle: Te comparto lo más relevante en temas de Tecnología y Educación
     posts_number: 3
     col_number: three

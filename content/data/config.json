@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Rojas Corona - Desarrollo de Software",
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "pink",
@@ -40,33 +40,33 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Rojas Corona Online. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/rojascorona_dev",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/elprofe.pedro/",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/LiaPedroRojas",
                 "style": "icon",
-                "icon": "dribbble",
+                "icon": "facebook",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/pdrc/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true

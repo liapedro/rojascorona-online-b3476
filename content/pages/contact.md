@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: ¡Hablemos!
 hide_title: false
 sections:
   - section_id: contact-form
@@ -13,17 +13,17 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: Nombre
+        default_value: Tu nombre es...
         is_required: true
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Tu correo electrónico es...
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
+        label: Asunto
         default_value: Please select
         options:
           - Error on the site
@@ -31,16 +31,16 @@ sections:
           - Other
       - input_type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: Mensaje
+        default_value: Tu mensaje es...
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+          Entiendo que este formulario almacena la información enviada, por lo que
+          puede ser contactado
+    submit_label: ¡Enviar!
 seo:
-  title: Contact
+  title: ¡Hablemos!
   description: This is the contact page
   extra:
     - name: 'og:type'

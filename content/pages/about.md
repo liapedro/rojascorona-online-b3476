@@ -1,10 +1,10 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
+title: Conóceme
+subtitle: ¿Quién es Pedro Daniel?.
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
-  title: About Us
+  title: Conóceme
   description: This is the about us page
   extra:
     - name: 'og:type'
@@ -32,10 +32,10 @@ seo:
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Mi nombre es Pedro Daniel Rojas Corona, nacido en Escuinapa, Sinaloa, pero actualmente vivo en La Cruz, Elota. Me desempeño como docente de educación básica, nivel secundaria, en distintas escuelas y colegios particulares. Soy un apasionado del aprendizaje constante y de llevarlo a la práctica en todo momento. Me gusta aprender bastante para poder transmitir esos conocimientos a lxs estudiantes y aportar un granito de arena en su desarrollo personal y profesional.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+>Soy de la idea de que si se quiere cambiar a la educación se debe escuchar a los protagonistas, los alunos. - #AprendeComparteCrece
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Tambien me desempeño con #Frontend Developer, con conocimiento sólidos en HTML, CSS y JavaScript. Me gustan navegar por diferentes sitios para tomar inspiración y retar mis conocimientos. Si puedo apoyarte con un sitio web, yo encantado. 
 
-*Thank You for reading!*
+*PDRC!*

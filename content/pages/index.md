@@ -1,28 +1,27 @@
 ---
-title: Home
+title: Inicio
 hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Hola, soy Pedro Daniel Rojas Corona.'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Docente de educación básica (Secundaria) ■ Frontend con conocimientos en HTML, CSS y JavaScript ■ Cuento con la certificación de Google For Education Level 1 & Level 2.
     actions:
-      - label: Let's talk
+      - label: ¡Hablemos!
         url: /contact
         style: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Recent Work
+    title: Proyectos recientes...
     subtitle: An optional subtitle of the section
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: Puedo apoyarte con...
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
@@ -48,8 +47,8 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - section_id: testimonials
     type: section_testimonials
-    title: Testimonials
-    subtitle: An optional subtitle of the section
+    title: Lo que dicen mis alumnos...
+    subtitle: "Si quieres cambiar el mundo, inicia por escuchar a lxs alumnxs"
     col_number: three
     testimonials:
       - author: Sean Salazar
@@ -73,8 +72,8 @@ sections:
           convallis, interdum ligula vel, pretium diam.
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
+    title: Artículos...
+    subtitle: Te comparto temas relevantes sobre Tecnología y Educación
     posts_number: 3
     col_number: three
     actions:

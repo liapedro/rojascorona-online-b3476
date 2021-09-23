@@ -5,9 +5,8 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      ¡Hola! Muchas gracias por su interés en trabajar juntos. Complete el formulario de contacto a continuación o envíenos un correo electrónico
+      [pedro@rojascorona.online](mailto:pedro@rojascorona.online).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -24,11 +23,11 @@ sections:
       - input_type: select
         name: subject
         label: Asunto
-        default_value: Please select
+        default_value: Selecciona...
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Asesoría Web
+          - Diseño de Sitio Web
+          - Otros
       - input_type: textarea
         name: message
         label: Mensaje

@@ -1,10 +1,10 @@
 {
-    "title": "Rojas Corona - Desarrollo de Software",
+    "title": "Rojas Corona - #Frontend",
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "Rojas Corona - #Frontend",
         "has_nav": true,
         "nav_links": [
             {

@@ -1,6 +1,6 @@
 ---
 title: Artículos...
-subtitle: 'News, tips and highlights'
+subtitle: Te comparto lo más relevante en Tecnología y Educación.
 hide_title: false
 col_number: three
 seo:

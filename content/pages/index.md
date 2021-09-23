@@ -76,7 +76,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Artículos
-    subtitle: An optional subtitle of the section
+    subtitle: Te comparto lo más relevante en temas de Tecnología y Educación
     posts_number: 3
     col_number: three
     actions:
